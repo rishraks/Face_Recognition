@@ -34,7 +34,7 @@ This project is a Python-based real-time Face Recognition system that uses OpenC
 5. **Train the Model:**
    - Run the training script:
      ```bash
-     python training.py
+     python Data_Training.py
      ```
    - Save the generated model as `model.p` in the project directory.
 
@@ -43,7 +43,7 @@ This project is a Python-based real-time Face Recognition system that uses OpenC
 ### Real-Time Face Recognition
 After training the model, run the following command to start the application:
 ```bash
-python Data_Training.py
+python Data_Testing.py
 ```
 - Press `Q` to quit the application.
 
